@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <p align="left">
 <a href="https://github.com/ryo-ma/github-profile-trophy">
-<img src="https://github-profile-trophy.vercel.app/?username=g3root" alt="g3root" />
+<img src="https://github-profile-trophy.vercel.app/?username=avzhelyazkov18" alt="avzhelyazkov18" />
 </a>
 </p>
 
